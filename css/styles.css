@@ -1,0 +1,176 @@
+/****************TAG SELECTORS**************/
+h1 {
+  color: #f8f1f1;
+  margin: 0;
+  font-family: 'Devonshire', cursive;
+  font-size: 400%;
+}
+
+h2 {
+  font-family: 'Goldman', cursive;
+  margin-top: 3.5%;
+}
+
+h3 {
+  font-family: 'Goldman', cursive;
+  margin-top: 2%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Rubik';
+}
+
+p {
+  margin-bottom: 0;
+}
+
+/***************CLASS SELECTORS***************/
+.skill-image {
+  width: 5%;
+  margin: 0 1% 0 1%;
+}
+
+.skill-image2 {
+  width: 4%;
+  height: 65px;
+  margin: 0 1% 0 1%;
+}
+
+.skill-image3 {
+  width: 15%;
+  height: 65px;
+  margin: 0 1% 0 1%;
+}
+
+.top-header {
+  font-family: 'Creepster', cursive;
+  font-size: 150%;
+  color: #db6400;
+  margin-top: .5%;
+}
+
+.top-container {
+  background-color: #16697a;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.top-cloud-or {
+  position: absolute;
+  top: 125%;
+  left: 14%;
+  width: 8%;
+
+}
+
+.bot-cloud-or {
+  position: absolute;
+  bottom: 11%;
+  right: 8%;
+  width: 8%;
+
+}
+
+.profile {
+  padding-bottom: 15px;
+}
+
+.hobbies {
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-bottom: 0;
+}
+
+.profile-photo {
+  width: 40%;
+  border-radius: 100%;
+}
+
+.middle-container {
+  text-align: center;
+  background-color: #ffa62b;
+  width: 100%;
+  padding-top: 1.5%;
+}
+
+.division-bar {
+  background-color: #16697a;
+  color: #16697a;
+  height: 3px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.contact-me {
+  margin: 0;
+}
+
+.skill-row {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hobbies-link:hover {
+  color: magenta;
+}
+
+.skills {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.bottom-container {
+  background-color: #db6400;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  width: 100%;
+  padding-top: 1.5%;
+}
+
+.osci-image {
+  position: absolute;
+  top: 125%;
+  right: 17%;
+  width: 10%;
+  border-radius: 14%;
+}
+
+.processor-image {
+  background-color: #ffa62b;
+  width: 15%;
+  position: absolute;
+  left: 3%;
+  top: 75%;
+}
+
+.inline-text {
+  padding-bottom: 5px;
+}
+
+.comp-image {
+  border-radius: 200%;
+  width: 33%;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 5%;
+  left: 70%;
+  width: 8%;
+  background-color: #16697a;
+}
+
+.bot-cloud {
+  position: absolute;
+  top: 35%;
+  left: 18%;
+  width: 8%;
+  background-color: #16697a;
+}
+
+/****************ID SELECTORS****************/
