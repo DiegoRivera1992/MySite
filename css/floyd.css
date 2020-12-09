@@ -1,3 +1,9 @@
+
+body {
+  background-image: url('https://houseandhome.com/wp-content/uploads/2016/05/2-KimberleyBrown-Dog-Wallpaper-Pierre-Frey.jpg');
+  background-color: transparent;
+}
+
 .floyd-image {
   width: 25%;
   border-style: groove;
@@ -6,5 +12,14 @@
 }
 
 .back-link {
-  font-size: 25px;
+  font-size: 35px;
+  color: red;
+}
+
+.floyd-vid {
+  margin-left: 15%;
+  width: 25%;
+  border-style: ridge;
+  border-width: 10px;
+  border-color: green;
 }
